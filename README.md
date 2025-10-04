@@ -1,2 +1,2 @@
 # Balloon-game
-blow the biggest balloon
+Blow the biggest balloon
